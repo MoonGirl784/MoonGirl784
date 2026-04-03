@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @MoonGirl784
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Mahak Gupta 👋
 
-<!---
-MoonGirl784/MoonGirl784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 B.Tech EEE @ NIT Uttarakhand  
+💻 FPGA | Verilog | RTL Design | VLSI Enthusiast  
+
+---
+
+## 🔧 Technical Skills
+- Verilog HDL, VHDL
+- FPGA Design (Xilinx Vivado)
+- RTL Design & Digital Logic
+- Embedded Systems (Arduino, ESP32)
+- MATLAB, LTSpice, Proteus
+
+---
+
+## 🚀 Projects
+- FPGA-Based Smart Protection System with IoT Monitoring  
+- Bidirectional Buck–Boost Converter for LiFePO₄ Battery  
+- 2nd Order High-Pass Filter (Sallen-Key)  
+- Digital Designs: Adder, Counter, Shift Register, Decoder  
+
+---
+
+## 📚 Currently Learning
+- Advanced RTL Design  
+- VLSI Design Flow  
+- FPGA System Design  
+
+---
+
+## 📫 Contact
+- Email: mahakgupta1030@gmail.com  
